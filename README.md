@@ -39,7 +39,7 @@ Ma promesse : pas de jargon inutile ni de no-code fragile. J'analyse vos besoins
 ## 📍 Localisation & Contact
 - 🌍 Basé à **Concarneau, Finistère (29)**
 - 💻 Intervention à distance (Remote) sur toute la France ou sur site en Bretagne
-- 📧 Vous avez un projet de chatbot ou d'automatisation IA ? [**Réservons un appel sur mon site**](https://www.juliencasanova.fr/contact)
+- 📧 Vous avez un projet de chatbot ou d'automatisation IA ? [**Réservez un appel découverte**](https://cal.com/juliencasanova)
 
 ---
 *Julien Casanova - SOLUO | Comprendre votre métier. Construire vos solutions.*
